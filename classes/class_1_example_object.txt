@@ -2,7 +2,7 @@ Half Booth
 
 Attributes:
 totalSeats (6)
-material (laminate)
+material ("laminate")
 covered (false)
 people (4)
 

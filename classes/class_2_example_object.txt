@@ -1,0 +1,14 @@
+Breakfast Sandwich
+
+Attributes:
+price (4.5)
+weight (1)
+spicy (false)
+foodStyle ("sandwich")
+dryness ("dry")
+
+Methods:
+addPepper (spicy = true)
+wrapInTortilla (changes foodStyle from "sandwich" to "burrito")
+addGreenChili (dryness changes to "moist")
+addBacon (price: 4.5 + 1.5 = 6, weight: 1 + 1 = 2)
