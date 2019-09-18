@@ -1,0 +1,14 @@
+Class: Entree
+
+Attributes:
+price (float)
+prepTime (integer)
+spicy (boolean)
+foodStyle (string)
+dryness (string)
+
+Methods:
+addPepper (makes spicy = true)
+wrapInTortilla (changes foodStyle to "Burrito")
+addGreenChili (changes dryness to "moist")
+addBacon (changes price + 1.50)
