@@ -1,0 +1,13 @@
+Half Booth
+
+Attributes:
+totalSeats (6)
+material (laminate)
+covered (false)
+people (4)
+
+Methods:
+putTableCloth (covered = true)
+takeSeat (totalSeats: 6 - 1 = 5)
+calculatePercentFull (4 / 5 = 0.8)
+addGuest (4 + 1 = 5)
