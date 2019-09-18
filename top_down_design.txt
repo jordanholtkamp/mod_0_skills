@@ -1,0 +1,34 @@
+How to become a Turing Student
+
+1 Apply to Turing
+  1.1 Go to Turing's website
+  1.2 Enter info about yourself
+  1.3 Upload resume
+    1.3.1 Update resume to most current form
+  1.4 Do logic test
+2 Interview for Turing
+  2.1 Do another logic assessment
+  2.2 Finish with an assessment of your fit at Turing
+3 Finish Enrollment
+  3.1 Get financing in order
+    3.1.1 Look at each loan option
+    3.1.2 Apply for the ones that best fit your needs
+      3.1.2.1 Get a cosigner for the loan if needed
+  3.2 Sign agreement letter with Turing
+4 Go through Mod 0
+  4.1 Go through computer setup
+  4.2 Make it to every session
+    4.2.1 Be ready to go twice a week for two hours
+    4.2.2 Listen intently during the sessions
+    4.2.3 Go back through the session and take more thorough notes
+  4.3 Do every homework for each session
+  4.4 Finish technical assessment
+  4.5 Finish Capstone
+    4.5.1 Do the technical capstone
+    4.5.2 Do the professional development assignment
+    4.5.3 Do the gear up assignment
+5 Keep practicing before Mod 1
+  5.1 Work every day on skills
+    5.1.1 Do typing.io every day for 10 minutes
+    5.1.2 Refine keyboard shortcuts every day
+    5.1.3 Go through a little mod 0 material every day
