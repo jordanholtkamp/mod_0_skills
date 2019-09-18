@@ -1,0 +1,14 @@
+Class: Table
+
+Attributes:
+totalSeats (integer)
+booth (boolean)
+material (string)
+covered (boolean)
+people (integer)
+
+Methods:
+putTableCloth (changes covered to true)
+takeSeat (changes totalSeats -1)
+calculatePercentFull (divides people by totalSeats)
+addGuest (changes people +1)
